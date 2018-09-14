@@ -9,7 +9,7 @@ Hardware for a CAN to USB device. This hardware can be used with the CANalyze
 - Red and green LED indicator
 - This version is based on easier to handsolder SMD 0805
 
-TODO:
-Even smaller version without DIP switch
-MicroUSB connector
-No DB9 for CAN - just screw terminal to make PCB even smaller
+## TODO:
+- Even smaller version without DIP switch
+- MicroUSB connector
+- No DB9 for CAN - just screw terminal to make PCB even smaller and easier to embed into the car permanently if needed
